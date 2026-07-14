@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0088-merge-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0169-majority-element) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/aranya-chatterjee/leetcode_solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
